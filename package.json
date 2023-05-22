@@ -1,11 +1,10 @@
 {
   "name": "book_shop",
   "version": "1.0.0",
-  "description": "",
+  "description": "mhdi-nzari.github.io/book-shop-portfolio/",
+  "homepage": "",
   "main": "index.js",
-  "scripts": {
-   
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC"
