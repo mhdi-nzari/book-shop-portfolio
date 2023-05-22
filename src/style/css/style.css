@@ -227,8 +227,14 @@ header {
      display: flex;
      justify-content: center;
      position: relative;
+     padding-block: 100px;
 }
 
+
+.intro__section_left img {
+     width: 800px;
+     height: 500px;
+}
 
 
 /* main element */
@@ -633,10 +639,14 @@ header {
           display: none;
      }
 
-     .desktop__menu{
+     .desktop__menu {
           display: none;
      }
 
+     .intro__section_left img {
+          width: 500px;
+          height: 300px;
+     }
 }
 
 
@@ -648,6 +658,11 @@ header {
 
      .footer>div:first-child {
           grid-template-columns: repeat(4, 1fr);
+     }
+
+     .intro__section_left img {
+          width: 550px;
+          height: 440px;
      }
 
 
